@@ -1,4 +1,3 @@
-
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image";
@@ -129,7 +128,7 @@ const Footer = () => {
                  
                 </li>
                 <li>
-                  <a href="#" className="hover:text-primary">
+                  <a href="/terms-and-conditions" className="hover:text-primary">
                     Terms & Conditions
                   </a>
                 </li>
